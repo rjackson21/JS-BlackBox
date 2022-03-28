@@ -12,5 +12,6 @@ body {
 }
 
 .change {
-    background-color: aqua;
+    background-color:aliceblue;
+    transform: scale(1.2);
 }
